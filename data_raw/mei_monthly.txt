@@ -1,0 +1,116 @@
+MEI Index (last update 10 March 2017)
+
+Bimonthly MEI values (in 11000 of standard deviations), starting with Dec1949Jan1950, thru last
+month.  More information on the MEI can be found on the MEI homepage.
+Missing values are left blank.  Note that values can still change with each monthly update, even 
+though such changes are typically smaller than +-0.1.  All values are normalized for each bimonthly
+season so that the 44 values from 1950 to 1993 have an average of zero and a standard deviation of 1.  
+Responses to 'FAQs' can be found below this table
+
+YEAR    DECJAN  JANFEB  FEBMAR  MARAPR  APRMAY  MAYJUN  JUNJUL  JULAUG  AUGSEP  SEPOCT  OCTNOV  NOVDEC
+1950	-1.062	-1.163	-1.312	-1.104	-1.433	-1.391	-1.296	-1.053	-.634	-.433	-1.165	-1.261
+1951	-1.07	-1.183	-1.222	-.523	-.36	.349	.666	.829	.743	.736	.703	.478
+1952	.419	.117	.063	.22	-.309	-.723	-.316	-.378	.313	.275	-.349	-.124
+1953	.03	.377	.256	.682	.784	.218	.368	.213	.501	.093	.075	.324
+1954	-.051	-.048	.162	-.567	-1.416	-1.564	-1.378	-1.471	-1.166	-1.348	-1.14	-1.113
+1955	-.762	-.697	-1.152	-1.634	-1.642	-2.243	-1.998	-2.073	-1.823	-1.753	-1.841	-1.877
+1956	-1.437	-1.303	-1.413	-1.132	-1.317	-1.502	-1.259	-1.131	-1.359	-1.486	-1.038	-1.022
+1957	-.941	-.372	.134	.353	.866	.769	.908	1.148	1.125	1.083	1.148	1.248
+1958	1.472	1.439	1.32	1.013	.719	.864	.693	.427	.188	.213	.486	.671
+1959	.548	.796	.496	.197	.013	-.018	-.134	.114	.105	-.06	-.17	-.261
+1960	-.299	-.274	-.094	-.019	-.335	-.254	-.34	-.251	-.465	-.355	-.331	-.417
+1961	-.163	-.257	-.097	0	-.288	-.137	-.216	-.304	-.301	-.539	-.436	-.634
+1962	-1.087	-.988	-.724	-1.039	-.91	-.852	-.701	-.543	-.551	-.67	-.623	-.505
+1963	-.739	-.863	-.69	-.792	-.477	-.087	.401	.597	.75	.814	.844	.744
+1964	.874	.468	-.269	-.563	-1.242	-1.115	-1.405	-1.503	-1.311	-1.225	-1.239	-.936
+1965	-.557	-.353	-.276	.053	.49	.915	1.36	1.443	1.406	1.219	1.362	1.252
+1966	1.306	1.17	.678	.528	-.152	-.168	-.136	.155	-.085	-.044	.004	-.199
+1967	-.473	-.919	-1.068	-1.059	-.455	-.266	-.521	-.395	-.621	-.683	-.426	-.378
+1968	-.619	-.749	-.629	-.965	-1.095	-.771	-.527	-.102	.22	.435	.586	.347
+1969	.664	.833	.452	.623	.696	.82	.467	.218	.177	.511	.666	.398
+1970	.372	.415	.215	-.023	-.126	-.659	-1.089	-1.016	-1.252	-1.088	-1.084	-1.223
+1971	-1.223	-1.528	-1.807	-1.888	-1.464	-1.448	-1.23	-1.225	-1.46	-1.421	-1.329	-.993
+1972	-.596	-.424	-.262	-.196	.464	1.069	1.827	1.821	1.558	1.643	1.726	1.766
+1973	1.726	1.5	.845	.481	-.106	-.769	-1.081	-1.347	-1.727	-1.667	-1.503	-1.848
+1974	-1.939	-1.793	-1.76	-1.673	-1.077	-.67	-.769	-.671	-.627	-1.052	-1.251	-.905
+1975	-.538	-.6	-.884	-.963	-.863	-1.15	-1.519	-1.73	-1.874	-1.987	-1.773	-1.757
+1976	-1.61	-1.392	-1.246	-1.184	-.496	.307	.615	.664	1.038	.946	.493	.55
+1977	.521	.273	.131	.539	.326	.451	.866	.695	.8	.986	.975	.86
+1978	.773	.899	.936	.191	-.388	-.579	-.433	-.2	-.389	-.02	.186	.388
+1979	.6	.362	-.015	.283	.38	.423	.369	.625	.786	.678	.746	.989
+1980	.672	.585	.69	.907	.961	.907	.749	.336	.281	.201	.251	.089
+1981	-.262	-.151	.457	.669	.161	-.019	-.048	-.088	.187	.112	-.038	-.141
+1982	-.27	-.137	.106	-.009	.429	.944	1.604	1.799	1.811	2.024	2.428	2.411
+1983	2.683	2.91	3.011	2.824	2.542	2.24	1.763	1.178	.497	.038	-.132	-.188
+1984	-.33	-.529	.143	.347	.131	-.079	-.084	-.154	-.106	.001	-.352	-.603
+1985	-.561	-.595	-.718	-.481	-.707	-.133	-.143	-.367	-.526	-.139	-.059	-.293
+1986	-.301	-.195	.04	-.11	.35	.306	.383	.775	1.088	.979	.873	1.19
+1987	1.25	1.205	1.719	1.866	2.14	1.964	1.859	1.999	1.894	1.647	1.271	1.282
+1988	1.119	.706	.487	.353	.119	-.622	-1.145	-1.303	-1.506	-1.326	-1.468	-1.328
+1989	-1.12	-1.262	-1.037	-.795	-.435	-.253	-.459	-.497	-.311	-.341	-.073	.115
+1990	.237	.563	.945	.442	.637	.484	.12	.131	.378	.285	.389	.348
+1991	.313	.314	.405	.463	.759	1.1	1.023	1.024	.76	1.009	1.189	1.32
+1992	1.743	1.87	1.993	2.275	2.129	1.748	1.018	.57	.497	.641	.582	.648
+1993	.687	.974	.99	1.409	1.998	1.591	1.17	1.042	.992	1.069	.834	.589
+1994	.353	.182	.174	.465	.573	.788	.88	.773	.908	1.407	1.299	1.237
+1995	1.22	.946	.879	.466	.563	.508	.207	-.143	-.426	-.477	-.478	-.554
+1996	-.612	-.58	-.227	-.42	-.127	.068	-.204	-.374	-.437	-.349	-.146	-.336
+1997	-.49	-.621	-.222	.535	1.165	2.292	2.805	3.04	3.044	2.401	2.542	2.335
+1998	2.466	2.761	2.768	2.685	2.212	1.292	.347	-.331	-.6	-.798	-1.086	-.922
+1999	-1.053	-1.14	-1.019	-.982	-.66	-.361	-.507	-.745	-.953	-.973	-1.05	-1.161
+2000	-1.139	-1.21	-1.112	-.479	.169	-.053	-.184	-.145	-.227	-.387	-.714	-.566
+2001	-.505	-.661	-.571	-.091	.233	.006	.27	.338	-.165	-.275	-.153	.019
+2002	.009	-.171	-.137	.401	.851	.913	.685	1.017	.908	1	1.09	1.145
+2003	1.218	.935	.831	.365	.111	.097	.144	.316	.477	.516	.57	.351
+2004	.327	.359	-.056	.285	.539	.267	.541	.627	.572	.508	.805	.667
+2005	.32	.81	1.055	.642	.836	.585	.49	.352	.315	-.167	-.392	-.57
+2006	-.438	-.424	-.533	-.621	.008	.53	.691	.759	.823	.955	1.286	.951
+2007	.985	.528	.112	.015	.247	-.215	-.288	-.441	-1.181	-1.217	-1.165	-1.193
+2008	-1.02	-1.388	-1.583	-.874	-.368	.133	.054	-.266	-.551	-.692	-.597	-.663
+2009	-.726	-.707	-.678	-.109	.361	.819	1.035	1.067	.735	.909	1.121	1.045
+2010	1.067	1.52	1.427	.95	.643	-.325	-1.156	-1.683	-1.868	-1.899	-1.49	-1.577
+2011	-1.739	-1.563	-1.511	-1.392	-.288	-.075	-.228	-.519	-.769	-.933	-.949	-.957
+2012	-.993	-.695	-.377	.127	.747	.835	1.098	.619	.339	.081	.125	.094
+2013	.096	-.08	-.128	.069	.146	-.168	-.355	-.48	-.133	.13	-.053	-.248
+2014	-.275	-.266	.032	.248	.976	.98	.882	.954	.585	.438	.763	.558
+2015	.42	.459	.67	.97	1.584	2.045	1.948	2.366	2.53	2.241	2.297	2.112
+2016	2.227	2.169	1.96	2.07	1.699	1.001	.312	.175	-.101	-.379	-.212	-.121
+2017	-.055	-.056
+
+(1) If you are trying to relate the MEI to monthly values of, say, precipitation, it may be 
+    expedient to use the MEI value of month(i-1) and month(i) as if it were the value for 
+    month(i) only. Since it takes a week or so for the global atmosphere to respond to tropical
+    SST anomalies, the resulting lag is thus built into the analysis (I have verified this for
+    southwest U.S. precipitation).
+
+(2) Next update 7 April 2017 (crossing fingers)  
+
+(3) Are there MEI values available prior to 1950 YES, the link to the sister website for
+    the MEI.ext is here.
+    Numerical values for the MEI.ext are available 
+    here.
+
+(4) Why do I believe that the MEI is better for monitoring ENSO than the SOI or various SST
+    indices  In brief, the MEI integrates more information than other indices, it reflects
+    the nature of the coupled ocean-atmosphere system better than either component, and it is
+    less vulnerable to occasional data glitches in the monthly update cycles. Now, if you are
+    interested in ENSO impacts in a very specific part of the world, I would suggest that you
+    obtain other ENSO indices as well and establish which one best fits your needs. 
+    For instance, in Australia, Darwin sea level pressure andor the SOI may be more appropriate
+    than the MEI. My claim here is that the MEI does a better job than other indices for the 
+    overall monitoring of the ENSO phenomenon, including, for instance, world-wide correlations 
+    with surface temperatures and rainfall.
+
+(5) I have been asked about MEI-like indices for the Indian Ocean, and at present I have no such
+    project under way, nor do I know of any such data.
+
+(6) Given the integrative approach of the MEI, I am very hesitant to give out subsets of the data
+    that make up the MEI (for instance, its SST or SLP components alone).  Therefore, I will not
+    honor requests of that nature.
+
+(7) If you are interested in MEI predictions, please contact me directly under my e-mail address
+    Klaus Wolter (klaus.wolter@noaa.gov).
+
+Link to ranked MEI values is here.
+
+Go back to MEI homepage.
